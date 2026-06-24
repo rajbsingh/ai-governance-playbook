@@ -1,5 +1,3 @@
-# ai-governance-playbook
-Practical AI governance playbook for responsible, secure, and enterprise-ready AI adoption.
 # AI Governance Playbook
 
 A practical AI governance playbook for organizations adopting Generative AI, agentic AI, and AI-powered automation.
