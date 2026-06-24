@@ -4,6 +4,11 @@ Practical AI governance playbook for responsible, secure, and enterprise-ready A
 
 A practical AI governance playbook for organizations adopting Generative AI, agentic AI, and AI-powered automation.
 
+## Governance Documents
+
+- [AI Governance Checklist](ai-governance-checklist.md)
+- [Responsible AI Principles](responsible-ai-principles.md)
+- [Human-in-the-Loop Governance](human-in-the-loop-governance.md)
 ---
 
 ## Purpose
